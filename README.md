@@ -11,7 +11,7 @@
 By Di Wang, Long Ma, Risheng Liu, and Xin Fan
 
 <div align=center>
-<img src="https://github.com/wdhudiekou/TSTC/blob/master/Fig/network.png" width="80%">
+<img src="https://github.com/wdhudiekou/STSC/blob/master/Fig/network.png" width="80%">
 </div>
 
 ## Updates
@@ -47,19 +47,19 @@ Please download the following datasets:
 ## Experimental Results
 
 <div align=center>
-<img src="https://github.com/wdhudiekou/TSTC/blob/master/Fig/UIEB.png" width="95%">
+<img src="https://github.com/wdhudiekou/STSC/blob/master/Fig/UIEB.png" width="95%">
 </div>
 
 <div align=center>
-<img src="https://github.com/wdhudiekou/TSTC/blob/master/Fig/EUVP.png" width="95%">
+<img src="https://github.com/wdhudiekou/STSC/blob/master/Fig/EUVP.png" width="95%">
 </div>
 
 <div align=center>
-<img src="https://github.com/wdhudiekou/TSTC/blob/master/Fig/RUIE.png" width="95%">
+<img src="https://github.com/wdhudiekou/STSC/blob/master/Fig/RUIE.png" width="95%">
 </div>
 
 <div align=center>
-<img src="https://github.com/wdhudiekou/TSTC/blob/master/Fig/USOD.png" width="95%">
+<img src="https://github.com/wdhudiekou/STSC/blob/master/Fig/USOD.png" width="95%">
 </div>
 
 ## Citation
