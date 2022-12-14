@@ -27,7 +27,7 @@ By Di Wang, Long Ma, Risheng Liu, and Xin Fan
 
 ## Get start
 Please download the pretrained VGG model [MyVGG.pt](https://drive.google.com/file/d/1v67HJre81RrNJbnLmdpspwSsiMkLBSnP/view?usp=sharing) and [vggfeature.pth](https://drive.google.com/file/d/1TUmfNIPT6PIf0sVNl88CZiqtkNOh13jq/view?usp=share_link) and put them into the folder 'pretrain'
-BaiduNetdiskDownload pretrained VGG model [MyVGG.pt] (https://pan.baidu.com/s/1pRx5zGLfV2Co0x_BcJOtJQ?pwd=c915) [code: c915] a [vggfeature.pth](https://pan.baidu.com/s/1bfbThbMeErJJYLv693FuSg?pwd=84zk) [code: 84zk] 
+BaiduNetdiskDownload pretrained VGG model [MyVGG.pt](https://pan.baidu.com/s/1pRx5zGLfV2Co0x_BcJOtJQ?pwd=c915) [code: c915] a [vggfeature.pth](https://pan.baidu.com/s/1bfbThbMeErJJYLv693FuSg?pwd=84zk) [code: 84zk] 
 
 1. Check the dataset path in train.py, and then run:
     ```python
