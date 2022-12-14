@@ -27,7 +27,7 @@ By Di Wang, Long Ma, Risheng Liu, and Xin Fan
 
 ## Get start
 Please download the pretrained VGG model [MyVGG.pt](https://drive.google.com/file/d/1v67HJre81RrNJbnLmdpspwSsiMkLBSnP/view?usp=sharing) and [vggfeature.pth](https://drive.google.com/file/d/1TUmfNIPT6PIf0sVNl88CZiqtkNOh13jq/view?usp=share_link) and put them into the folder 'pretrain'
-BaiduNetdiskDownload pretrained VGG model [MyVGG.pt](https://pan.baidu.com/s/1pRx5zGLfV2Co0x_BcJOtJQ?pwd=c915) [code: c915] a [vggfeature.pth](https://pan.baidu.com/s/1bfbThbMeErJJYLv693FuSg?pwd=84zk) [code: 84zk] 
+Baidu Disk pretrained VGG model [MyVGG.pt](https://pan.baidu.com/s/1pRx5zGLfV2Co0x_BcJOtJQ?pwd=c915) [code: c915] and a [vggfeature.pth](https://pan.baidu.com/s/1bfbThbMeErJJYLv693FuSg?pwd=84zk) [code: 84zk] 
 
 1. Check the dataset path in train.py, and then run:
     ```python
@@ -38,7 +38,8 @@ BaiduNetdiskDownload pretrained VGG model [MyVGG.pt](https://pan.baidu.com/s/1pR
        python test_UIEB.py
 
   Please download the [UIEB pretrained model](https://drive.google.com/file/d/1Rt8-8DfX9UdiPj9AmXiTiQEe4iRG-HUE/view?usp=share_link) and put it into folder './checkpoints/'
-   
+  Baidu Disk [UIEB pretrained model](https://pan.baidu.com/s/12qQOtyrrZZUuob85pRezXA?pwd=mgey) [code: mgey] 
+
 ## Dataset
 Please download the following datasets:
 *   [UIEB](https://ieeexplore.ieee.org/document/8917818)
